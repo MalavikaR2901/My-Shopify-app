@@ -1,3 +1,4 @@
+
 INVENTORY CO. - A Smart Inventory Platform for Shopify app (Landing Page)
 
 Inventory Co. is a full stack Inventory Management platform designed for modern Shopify-style stores.
