@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "framer-motion": "^12.31.0",
+    "maven": "^5.0.0",
+    "react-router-dom": "^7.13.0",
+    "wouter": "^3.9.0"
+  }
+}
